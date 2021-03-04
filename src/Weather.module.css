@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.weatherCard {
+    width: 100%;
+    max-width: 200px;
+    text-align: center;
+    background-color: rgb(138, 138, 188);
+    margin: 10px 20px;
+    font-weight: 600;
+}
+
+.weatherImg {
+    width: 100%;
+    margin-bottom: 0;
+}
+
+.lcName {
+    margin-top: -20px;
+    margin-bottom: 10px;
+    font-size: 2rem;
+    color: white;
+}
+
+p {
+    line-height: 50px;
+}

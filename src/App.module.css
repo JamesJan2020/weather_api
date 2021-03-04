@@ -1,0 +1,12 @@
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.titleName {
+    font-size: 2rem;
+    font-weight: 600;
+}
